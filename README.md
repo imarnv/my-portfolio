@@ -1,4 +1,4 @@
-# ersonal Portfolio Website
+# Personal Portfolio Website
 
 This is my personal portfolio website, designed to showcase my skills, projects, and achievements in an interactive and visually appealing way. Built with React + Vite for performance, enhanced with Framer Motion for smooth animations, and integrated with 3D effects for a modern, engaging experience.
 
