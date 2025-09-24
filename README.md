@@ -1,7 +1,7 @@
 This is my personal portfolio website, designed to showcase my skills, projects, and achievements in an interactive and visually appealing way. Built with React + Vite for performance, enhanced with Framer Motion for smooth animations, and integrated with 3D effects for a modern, engaging experience.
 
 Features 
-1. Responsive Design – Works seamlessly across all devices.2.
+1. Responsive Design – Works seamlessly across all devices.
 2. Framer Motion Animations – Smooth transitions and interactive effects.
 3. 3D Elements – Engaging visuals using modern web graphics.
 4. Projects Section – Highlights major projects with details & links.
